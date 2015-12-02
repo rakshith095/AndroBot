@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">AndroBot</string>
+    <string name="title_initial_screen">AndroBot</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_buttons">Button Controller</string>
+    <string name="title_accelerometer">Accelerometer Controller</string>
+    <string name="title_gesture">Gesture Controller</string>
+    <string name="buttons_result">STOPPED</string>
+    <string name="popup_connect">Connect</string>
+    <string name="popup_exit">Exit</string>
+    <string name="title_blue">Select a device to connect</string>
+
+</resources>
